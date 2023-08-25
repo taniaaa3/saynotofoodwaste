@@ -1,5 +1,6 @@
 body{
     background: linear-gradient(90deg, #4b79a1, #283e51);
+    color: white;
 }
 .heading{
     display: flex;
@@ -15,6 +16,7 @@ body{
     align-items: center;
     justify-content: space-between;
     margin-bottom: 2%;
+    background-color: white;
 }
 .links{
     display: flex;
